@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thunsaker",
+    "longName": "crawl",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "crawl",
+    "uuid": "51d9bd84-b3bd-485c-8bd1-3d1468523001",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
